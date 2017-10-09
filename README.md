@@ -10,6 +10,9 @@ So you've been contacted for an interview. This process begins in one of two way
 ## Scheduling
 I recommend you schedule your phone screen no later than the third week of October, and fly-out final rounds to be completed no later than the first week of November. This advice is especially emphasized for candidates interviewing for the Explore program; there are only ~300 Explorer spots, while there are nearly 2000 SWE Intern spots. Explorer spots go very quickly; I've seen PLENTY of top students at top schools do exceptionally well in interviews only to be turned away because they waited until December to complete the rounds and all the spots got taken out from under them in the meantime. (Likewise, don't do this if you're seeking a PM role, either. Those figures are similar and as the PM program is extraordinarily competitive, I recommend not waiting.)
 
+## Recruiters
+Recruiters are your biggest ally in the hiring process. They're also exceptionally busy people. When emailing, put the point of your email in the first sentence -- then go into background detail if needed, just don't hide the punchline in the fifth paragraph of your email. It is acceptable to email your recruiter once a week; don't bug them excessively. If you're having trouble hearing back either way, email urcenter@microsoft.com and/or ask your friends for their recruiters' emails. More than anything, be gracious through this process and respect your recruiter's time.
+
 ## Interview Question Examples
 **Phone Screen round**
 1. What is your favorite technology and why?
