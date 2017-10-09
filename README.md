@@ -11,7 +11,15 @@ So you've been contacted for an interview. This process begins in one of two way
 I recommend you schedule your phone screen no later than the third week of October, and fly-out final rounds to be completed no later than the first week of November. This advice is especially emphasized for candidates interviewing for the Explore program; there are only ~300 Explorer spots, while there are nearly 2000 SWE Intern spots. Explorer spots go very quickly; I've seen PLENTY of top students at top schools do exceptionally well in interviews only to be turned away because they waited until December to complete the rounds and all the spots got taken out from under them in the meantime. (Likewise, don't do this if you're seeking a PM role, either. Those figures are similar and as the PM program is extraordinarily competitive, I recommend not waiting.)
 
 ## Interview Question Examples
+**Phone Screen round**
+1. What is your favorite technology and why?
+2. What teams at Microsoft are you interested in and why?
+3. How did you become interested in computer science?
+4. What is a linked list?
+5. What is your favorite language and why?
+
 **Explore - PM-y questions (final rounds)**
+Cracking the PM Interview is overdoing it, but good prep for future PM candidates (you will need to re-interview from Explore to be considered for a return offer in a PM role).
 1. If you were given a keyboard, how would you test the keys?
 2. How would you test a pen?
 3. How would you design a calculator for a visually impared student?
@@ -21,7 +29,7 @@ I recommend you schedule your phone screen no later than the third week of Octob
 7. What is the difference between C and Java/between C and C# and how might this impact design decisions?
 
 **Explore - Dev questions (final rounds)**
-Cracking the Coding Interview is likely overdoing it, but good prep for future interviews.
+Cracking the Coding Interview is likely overdoing it, but good prep for future interviews elsewhere (note that Explorers interested in returning as a SWE Intern within the same team do not need to re-interview).
 1. What is the best data structure for a phone book with names and phone numbers? Code an example solution and explain.
 2. Print values in a doubly linked list in descending order.
 3. Invert a binary search tree.
