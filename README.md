@@ -25,7 +25,7 @@ Recruiters are your biggest ally in the hiring process. They're also exceptional
 Cracking the PM Interview is overdoing it, but good prep for future PM candidates (you will need to re-interview from Explore to be considered for a return offer in a PM role).
 1. If you were given a keyboard, how would you test the keys?
 2. How would you test a pen?
-3. How would you design a calculator for a visually impared student?
+3. How would you design a calculator for a visually impaired student?
 4. How would you design a vending machine or a toaster?
 5. You have a series of numbers from one to one million and there is a missing number; how would you find the missing number? (Solution can also be coded as part of the tech interviews)
 6. In 2 to 3 minutes, explain a computer to a 5 year old who has seen a computer, but doesn’t really understand what it is or does.
@@ -38,7 +38,7 @@ Cracking the Coding Interview is likely overdoing it, but good prep for future i
 3. Invert a binary search tree.
 4. Sort an array, stack, and queue in arrays and linked lists.
 5. Write a program that returns the acute angle between two hands on a clock.
-6. If there is a line of people, how would you keep track of positions?
+6. Keep track of the positions of people in a line. (Note that some questions asked are intentionally vague; ask clarifying questions. Can we consider this a sorted list? That detail matters.)
 7. Remove duplicates in this list.
 8. Reverse a string.
 
