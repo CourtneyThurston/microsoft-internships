@@ -38,7 +38,7 @@ Cracking the Coding Interview is likely overdoing it, but good prep for future i
 3. Invert a binary search tree.
 4. Sort an array, stack, and queue in arrays and linked lists.
 5. Write a program that returns the acute angle between two hands on a clock.
-6. Keep track of the positions of people in a line. (Note that some questions asked are intentionally vague; ask clarifying questions. Can we consider this a sorted list? That detail matters.)
+6. Keep track of the positions of people in a line. (Note that some questions asked are intentionally vague; ask clarifying questions. Can we consider this a sorted list? I.e. are they allowed to move around or not? What does that movement look like? That detail matters.)
 7. Remove duplicates in this list.
 8. Reverse a string.
 
