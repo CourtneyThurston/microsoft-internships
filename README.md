@@ -70,5 +70,8 @@ Additionally, all Redmond interns receive free corporate housing OR a $4000 net 
 
 After accounting for California taxes and cost of living differences, I feel that for internships, Microsoft HQ offers are marginally more competitive than Google HQ offers and on par with Facebook HQ offers.
 
+## Housing
+You could end up in a Hilton with breakfast every morning, or you could end up in an Issaquah motel with 1.5 stars on Yelp. These things have both happened to people. Are you cool making this gamble? If so, cool, take corporate housing. If not, the housing stipend is 200% the way to go.
+
 ## Signature Event
 The sig event is a festival of activities and a concert every year held at a landmark venue in the Seattle metro area, and also the night the "intern gift" is given. Some examples; in 2016, the sig event was Ellie Goulding at Seattle Center (Space Needle and the Chihuly Museum were shut down for us) and the gift was a maxxed out Surface Book (retail ~$1900/person). In 2017, it was Daya and The Chainsmokers at the Boeing Factory/Museum/Runway in Mukilteo, and the gift was an Xbox (retail $250/person).
