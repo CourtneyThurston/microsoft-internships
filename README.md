@@ -66,12 +66,15 @@ You can find all of this on Glassdoor, but for the sake of shoving all relevant 
    - $7650/mo
    - $5000 gross starting bonus
    
-Additionally, all Redmond interns receive free corporate housing OR a $4000 net housing stipend, a bus pass for the Seattle metro area, reimbursed gym membership, free healthcare (no dental for interns), access to the Connector shuttles to and from work, the Signature Event gift, and more.
+Additionally, all Redmond interns receive free corporate housing OR a $4000 net housing stipend, a subsidized car rental OR a $1200 transportation stipend, a $300 misc expenses stipend (read: pays for checked bags and shipping), a bus pass for the Seattle metro area, reimbursed gym membership, free healthcare (no dental for interns), access to the Connector shuttles to and from work, the Signature Event gift, and more.
 
 After accounting for California taxes and cost of living differences, I feel that for internships, Microsoft HQ offers are marginally more competitive than Google HQ offers and on par with Facebook HQ offers.
 
 ## Housing
 You could end up in a Hilton with breakfast every morning, or you could end up in an Issaquah (read: far af) motel with 1.5 stars on Yelp. These things have both happened to lots of people who took corporate housing. Are you cool making this gamble? If so, cool, take corporate housing. If not, the housing stipend is 200% the way to go.
+
+## Car Rentals
+Are you gonna travel to music festivals or go hiking every weekend? If so, you should take the car option. If not, Puget Sound public transit + the Connector is more than enough.
 
 ## Signature Event
 The sig event is a festival of activities and a concert every year held at a landmark venue in the Seattle metro area, and also the night the "intern gift" is given. Some examples; in 2016, the sig event was Ellie Goulding at Seattle Center (Space Needle and the Chihuly Museum were shut down for us) and the gift was a maxxed out Surface Book (retail ~$1900/person). In 2017, it was Daya and The Chainsmokers at the Boeing Factory/Museum/Runway in Mukilteo, and the gift was an Xbox (retail $250/person).
