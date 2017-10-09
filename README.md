@@ -66,7 +66,7 @@ You can find all of this on Glassdoor, but for the sake of shoving all relevant 
    - $7650/mo
    - $5000 gross starting bonus
    
-Additionally, all Redmond interns receive free corporate housing OR a $4000 net housing stipend, a subsidized car rental OR a $1200 transportation stipend, a $300 misc expenses stipend (read: pays for checked bags and shipping), a bus pass for the Seattle metro area, reimbursed gym membership, free healthcare (no dental for interns), access to the Connector shuttles to and from work, the Signature Event gift, and more.
+Additionally, all Redmond interns receive free corporate housing OR a $4000 net housing stipend, a subsidized car rental OR a $1200 net transportation stipend, a $300 net misc expenses stipend (read: pays for checked bags and shipping), a bus pass for the Seattle metro area, reimbursed gym membership, free healthcare (no dental for interns), access to the Connector shuttles to and from work, the Signature Event gift, and more.
 
 After accounting for California taxes and cost of living differences, I feel that for internships, Microsoft HQ offers are marginally more competitive than Google HQ offers and on par with Facebook HQ offers.
 
