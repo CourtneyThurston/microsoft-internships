@@ -20,6 +20,8 @@ Recruiters are your biggest ally in the hiring process. They're also exceptional
 3. How did you become interested in computer science?
 4. What is a linked list?
 5. What is your favorite language and why?
+6. (Explore) You work in an ice cream shop and step into the back for a few minutes. You return and see a large group of people waiting. How do you serve them?
+7. (Explore) How would you make a multimedia cookbook for a family of varying cooking skills and abilities?
 
 **Explore - PM-y questions (final rounds)**
 Cracking the PM Interview is overdoing it, but good prep for future PM candidates (you will need to re-interview from Explore to be considered for a return offer in a PM role).
