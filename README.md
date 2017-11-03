@@ -4,14 +4,25 @@ This is unofficial, largely anecdote-based advice on getting hired for Explorer 
 ## Disclaimer
 Again: I'm not a Microsoft recruiter, I can't get you hired here, and none of this advice is official. These are my own reflections based on personal experience. I'm putting this right at the top and reiterating it so I don't have to say "my personal opinion is..." in every sentence.
 
+## Getting Noticed/Contact Information
+* Find your recruiter here: https://careers.microsoft.com/recruiters
+* General recruiting email/contact email for schools without dedicated recruiters: URCenter@microsoft.com
+* If you have a Microsoft-employee-friend willing to give you a referral, have them send your resume, your top accomplishments, and desired role(s) at Microsoft to collref@microsoft.com
+
+If you were referred, **make sure you apply online also**. The application is basically only a resume upload--it takes literally about 5-10 minutes. There's no reason not to fill it out when it could massively expedite your interview and hiring process (potentially gets you noticed faster).
+
 ## Interview Process
-So you've been contacted for an interview. Congrats! This process begins in one of two ways: first with either a phone screen or a campus interview. Phone screens are typically non-technical or close-to-non-technical 30 minute conversations with a recruiter. See the section below for a sampling of questions. Campus interviews can be more technical despite being about the same amount of time; candidates are typically given an easy/moderate technical question by an engineer to solve in real time or to code and hand-in for future evaluation. It appears as though this is done mostly at target schools where there are large volumes of qualified candidates to sort through in short amounts of time.
+So you've been contacted for an interview. Congrats! This process begins in one of two ways: first with either a phone screen or a campus interview. Phone screens are typically non-technical or close-to-non-technical 30 minute conversations with a recruiter. See the section below for a sampling of questions. Campus interviews can be **more technical** despite being about the same amount of time; candidates are typically given an easy/moderate (Leetcode equivalent) technical question by an engineer to solve in real time or to code and hand-in for future evaluation. It appears as though this is done mostly at target schools and/or where there are large volumes of qualified candidates to sort through in short amounts of time (big state schools, etc).
 
 ## Scheduling
-I recommend you schedule your phone screen no later than the third week of October, and fly-out final rounds to be completed no later than the first week of November. This advice is especially emphasized for candidates interviewing for the Explore program; there are only ~300 Explorer spots, while there are nearly 2000 SWE Intern spots. Explorer spots go very quickly; I've seen PLENTY of top students at top schools do exceptionally well in interviews only to be turned away because they waited until December to complete the rounds and all the spots got taken out from under them in the meantime. (Likewise, don't do this if you're seeking a PM role, either. Those figures are similar and as the PM program is extraordinarily competitive, I recommend not waiting.)
+**I recommend you schedule your phone screen no later than the third week of October, and fly-out final rounds to be completed no later than the first week of November**. This advice is **especially** emphasized for candidates interviewing for the Explore program; there are only ~300 Explorer spots, while there are nearly 1.7-2k SWE Intern spots. Explorer spots go very quickly; I've seen PLENTY of top students at top schools do exceptionally well in interviews only to be turned away because they waited until December to complete the rounds and all the spots got taken out from under them in the meantime. (Likewise, don't do this if you're seeking a PM role, either. Those figures are similar and as the PM program is extraordinarily competitive, I recommend not waiting.)
 
 ## Recruiters
-Recruiters are your biggest ally in the hiring process. They're also exceptionally busy people. When emailing, put the point of your email in the first sentence -- then go into background detail if needed, just don't hide the punchline in the fifth paragraph of your email. It is acceptable to email your recruiter once a week; don't bug them excessively. If you're having trouble hearing back either way, email urcenter@microsoft.com and/or ask your friends for their recruiters' emails. More than anything, be gracious through this process and respect your recruiter's time.
+Recruiters are your biggest ally in the hiring process. They're also exceptionally busy people. When emailing, put the point of your email in the first sentence -- then go into background detail if needed, just don't hide the punchline in the fifth paragraph of your email. It is acceptable to email your recruiter once a week; don't bug them excessively. If you're having trouble hearing back either way, email urcenter@microsoft.com and/or ask your friends for their recruiters' emails. 
+
+Not getting a response from your recruiter despite repeated emails? Contact URCenter@microsoft.com, mark your email hi-pri, and ask someone to confirm that the recruiter you've been contacting is still assigned to your school; sometimes they are moved around and the website is not updated immediately.
+
+More than anything, **be gracious through this process and respect all recruiters' time**.
 
 ## Interview Question Examples
 **Phone Screen round**
