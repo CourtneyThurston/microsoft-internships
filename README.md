@@ -1,11 +1,11 @@
 # microsoft-internships
-Advice on getting hired for Explorer or Software Engineering Intern roles at Microsoft. I was an explorer in the summer of 2016, SWE intern in 2017, and will be a SWE intern again in 2018.
+This is unofficial, largely anecdote-based advice on getting hired for Explorer or Software Engineering Intern roles at Microsoft (with a lil sprinkle of PM advice). I was an explorer intern in the summer of 2016, a SWE intern in the summer of 2017, I'll be back next summer (2018) for my final SWE internship (all internships were at MS headquarters in Redmond).
 
 ## Disclaimer
-I'm not a Microsoft recruiter, I can't get you hired here, and none of this advice is official. These are my own reflections based on personal experience; putting this at the top so I don't have to say "my personal opinion is..." in every sentence.
+Again: I'm not a Microsoft recruiter, I can't get you hired here, and none of this advice is official. These are my own reflections based on personal experience. I'm putting this right at the top and reiterating it so I don't have to say "my personal opinion is..." in every sentence.
 
 ## Interview Process
-So you've been contacted for an interview. This process begins in one of two ways: first with either a phone screen or a campus interview. Phone screens are typically non-technical or close-to-non-technical 30 minute conversations with a recruiter. See the section below for a sampling of questions. Campus interviews can be more technical despite being about the same amount of time; candidates are typically given an easy/moderate technical question by an engineer to solve in real time or to code and hand-in for future evaluation. It appears as though this is done mostly at target schools where there are large volumes of qualified candidates to sort through in short amounts of time.
+So you've been contacted for an interview. Congrats! This process begins in one of two ways: first with either a phone screen or a campus interview. Phone screens are typically non-technical or close-to-non-technical 30 minute conversations with a recruiter. See the section below for a sampling of questions. Campus interviews can be more technical despite being about the same amount of time; candidates are typically given an easy/moderate technical question by an engineer to solve in real time or to code and hand-in for future evaluation. It appears as though this is done mostly at target schools where there are large volumes of qualified candidates to sort through in short amounts of time.
 
 ## Scheduling
 I recommend you schedule your phone screen no later than the third week of October, and fly-out final rounds to be completed no later than the first week of November. This advice is especially emphasized for candidates interviewing for the Explore program; there are only ~300 Explorer spots, while there are nearly 2000 SWE Intern spots. Explorer spots go very quickly; I've seen PLENTY of top students at top schools do exceptionally well in interviews only to be turned away because they waited until December to complete the rounds and all the spots got taken out from under them in the meantime. (Likewise, don't do this if you're seeking a PM role, either. Those figures are similar and as the PM program is extraordinarily competitive, I recommend not waiting.)
@@ -50,9 +50,14 @@ Cracking the Coding Interview is good prep. Leetcode Hard is over-doing it.
 2. Given an array of 0's and 1's, move all of the 0's to the beginning of the array and all of the 1's to the end of the array. 
 3. Write a function that accepts an m x n matrix (array) of random numbers, and use the functions row (times) 2 and column-1 to set the entire array to 0.
 4. Solve a maze recursively.
-5. The N Queens problem.
-6. Keep track of the X most recent entries to a list without duplicates.
+5. Solve the N Queens problem.
+6. Keep track of the X most recent entries to a list without duplicates (sometimes framed as a line problem).
 7. Find the longest palindrome in a string.
+
+## Team Placement
+Team placement works similarly to Google and Facebook in that you do not (typically-- maybe 99% of the time) interview for a specific team. You can indicate your choices to your recruiter should you receive an offer. In my experience, most of the people I've known who accepted their offers ended up on teams related to the teams their interviewers are on (same "group" within Microsoft--for instance, SQL Server and COSMOS DB are within the same group but are not the same exact team). This has not held true in all cases, however; I cannot say definitively if this is coincidence or not. 
+
+When you list team preferences, you should list realistic choices for your best chance at being happy with your placement. Recruiters will likely reference your list for placement, but you may or may not get your exact choices; the more unrealistic you are, the higher the liklihood you get put somewhere unrelated. This means you **should not** list XBox, HoloLens, or Microsoft Research teams (unless you are a Research Intern--which is the PhD internship--for the latter). Everyone wants those teams, so basically no one gets put on them. It's a better strategy to list 5-10 realistic teams for your best shot. 
 
 ## Compensation
 You can find all of this on Glassdoor, but for the sake of shoving all relevant information into one page -- current going offers for summer 2018 are:
@@ -70,7 +75,7 @@ You can find all of this on Glassdoor, but for the sake of shoving all relevant 
    
 Additionally, all Redmond interns receive free corporate housing OR a $4000 net housing stipend, a subsidized car rental OR a $1200 net transportation stipend, a $300 net misc expenses stipend (read: pays for checked bags and shipping), a bus pass for the Seattle metro area, reimbursed gym membership, free healthcare (no dental for interns), access to the Connector shuttles to and from work, the Signature Event gift, and more.
 
-After accounting for California taxes and cost of living differences, I feel that for internships, Microsoft HQ offers are marginally more competitive than Google HQ offers and on par with Facebook HQ offers.
+After accounting for California taxes and cost of living differences, my personal opinions is that for **internships**, Microsoft HQ offers are marginally more competitive than Google HQ offers and on par with Facebook HQ offers.
 
 ## Housing
 You could end up in a Hilton with breakfast every morning, or you could end up in an Issaquah (read: far af) motel with 1.5 stars on Yelp. These things have both happened to lots of people who took corporate housing. Are you cool making this gamble? If so, cool, take corporate housing. If not, the housing stipend is 200% the way to go.
@@ -79,4 +84,6 @@ You could end up in a Hilton with breakfast every morning, or you could end up i
 Are you gonna travel to music festivals or go hiking every weekend? If so, you should take the car option. If not, Puget Sound public transit + the Connector is more than enough.
 
 ## Signature Event
-The sig event is a festival of activities and a concert every year held at a landmark venue in the Seattle metro area, and also the night the "intern gift" is given. Some examples; in 2016, the sig event was Ellie Goulding at Seattle Center (Space Needle and the Chihuly Museum were shut down for us) and the gift was a maxxed out Surface Book (retail ~$1900/person). In 2017, it was Daya and The Chainsmokers at the Boeing Factory/Museum/Runway in Mukilteo, and the gift was an Xbox (retail $250/person).
+The sig event is a festival of activities and a concert every year held at a landmark venue in the Seattle metro area, and also the night the "intern gift" is given; it's a major distinguishing factor between competitors' internships and Microsoft internships. 
+
+Some examples; in 2016, the sig event was Ellie Goulding at Seattle Center (Space Needle and the Chihuly Museum were shut down for us) and the gift was a maxxed out Surface Book (retail ~$1900/person). In 2017, it was Daya and The Chainsmokers at the Boeing Factory/Museum/Runway in Mukilteo (the concert was on an active runway) and the gift was an Xbox (retail $250/person).
