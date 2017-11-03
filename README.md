@@ -25,6 +25,8 @@ Not getting a response from your recruiter despite repeated emails? Contact URCe
 More than anything, **be gracious through this process and respect all recruiters' time**.
 
 ## Interview Question Examples
+Assume any questions asked for Explore are also fair game for SWE/etc, since they are in theory "easier".
+
 **Phone Screen round**
 1. What is your favorite technology and why?
 2. What teams at Microsoft are you interested in and why?
