@@ -7,7 +7,7 @@ Again: I'm not a Microsoft recruiter, I can't get you hired here, and none of th
 ## Getting Noticed/Contact Information
 * Find your recruiter here: https://careers.microsoft.com/recruiters
 * General recruiting email/contact email for schools without dedicated recruiters: URCenter@microsoft.com
-* If you have a Microsoft-employee-friend willing to give you a referral, have them send your resume, your top accomplishments, and desired role(s) at Microsoft to collref@microsoft.com
+* If you have a Microsoft-employee-friend willing to give you a referral, have them send your resume, your top accomplishments, and desired role(s) at Microsoft to collref@microsoft.com (only for college internships and new grads within +/-1 year of graduation)
 
 If you were referred, **make sure you apply online also**. The application is basically only a resume upload--it takes literally about 5-10 minutes. There's no reason not to fill it out when it could massively expedite your interview and hiring process (potentially gets you noticed faster).
 
