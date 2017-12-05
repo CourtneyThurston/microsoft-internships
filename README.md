@@ -86,12 +86,12 @@ You can find all of this on Glassdoor, but for the sake of shoving all relevant 
    - $7650/mo
    - $5000 gross starting bonus
    
-Additionally, all Redmond interns receive free corporate housing OR a $4000 net housing stipend, a subsidized car rental OR a $1200 net transportation stipend, a $300 net misc expenses stipend (read: pays for checked bags and shipping), a bus pass for the Seattle metro area, reimbursed gym membership, free healthcare (no dental for interns), access to the Connector shuttles to and from work, the Signature Event gift, and more.
+Additionally, all Redmond interns receive free corporate housing OR a $7000 net housing stipend, a subsidized car rental OR a $1200 net transportation stipend, a $300 net misc expenses stipend (read: pays for checked bags and shipping), a bus pass for the Seattle metro area, reimbursed gym membership, free healthcare (no dental for interns), access to the Connector shuttles to and from work, the Signature Event gift, and more.
 
 After accounting for California taxes and cost of living differences, my personal opinions is that for **internships**, Microsoft HQ offers are marginally more competitive than Google HQ offers and on par with Facebook HQ offers.
 
 ## Housing
-You could end up in a Hilton with breakfast every morning, or you could end up in an Issaquah (read: far af) motel with 1.5 stars on Yelp. These things have both happened to lots of people who took corporate housing. Are you cool making this gamble? If so, cool, take corporate housing. If not, the housing stipend is 200% the way to go.
+You could end up in a Hilton with breakfast every morning, or you could end up in an Issaquah (read: far af) motel with 1.5 stars on Yelp. These things have both happened to lots of people who took corporate housing. Are you cool making this gamble? If so, cool, take corporate housing. If not, the housing stipend is 200% the way to go; the stipend amount went up to $7,000 as of 12/1/2017, which is enough to pocket money regardless of where you choose to live as long as you don't choose a ridiculous Airbnb/sublet/etc. 
 
 ## Car Rentals
 Are you gonna travel to music festivals or go hiking every weekend? If so, you should take the car option. If not, Puget Sound public transit + the Connector is more than enough.
