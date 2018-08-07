@@ -78,12 +78,12 @@ You can find all of this on Glassdoor, but for the sake of shoving all relevant 
    - $31/hr
    - 40 hrs/week
 2. Software Engineering Intern - First time @ Microsoft - Redmond
-   - $7250/mo
+   - $7300/mo
 3. Software Engineering Intern - Explore to SWE Intern conversion - Redmond
-   - $7250/mo
+   - $7300/mo
    - $5000 gross starting bonus
 4. Software Engineering Intern - Returning Microsoft SWE Intern (SWE Intern <--> SWE Intern) - Redmond
-   - $7650/mo
+   - $7700/mo
    - $5000 gross starting bonus
    
 Additionally, all Redmond interns receive free corporate housing OR a $7000 net housing stipend, a subsidized car rental OR a $1200 net transportation stipend, a $300 net misc expenses stipend (read: pays for checked bags and shipping), a bus pass for the Seattle metro area, reimbursed gym membership, free healthcare (no dental for interns), access to the Connector shuttles to and from work, the Signature Event gift, and more.
