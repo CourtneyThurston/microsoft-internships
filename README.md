@@ -73,9 +73,9 @@ Team placement works similarly to Google and Facebook in that you do not (typica
 When you list team preferences, you should list realistic choices for your best chance at being happy with your placement. Recruiters will likely reference your list for placement, but you may or may not get your exact choices; the more unrealistic you are, the higher the liklihood you get put somewhere unrelated. This means you **should not** list XBox, HoloLens, or Microsoft Research teams (unless you are a Research Intern--which is the PhD internship--for the latter). Everyone wants those teams, so basically no one gets put on them. It's a better strategy to list 5-10 realistic teams for your best shot. 
 
 ## Compensation
-You can find all of this on Glassdoor, but for the sake of shoving all relevant information into one page -- current going offers for summer 2018 are:
+You can find all of this on Glassdoor, but for the sake of shoving all relevant information into one page -- current going offers for summer 2019 are:
 1. Explorer Intern - Redmond
-   - $31/hr
+   - $31/hr (was accurate as of summer 2018)
    - 40 hrs/week
 2. Software Engineering Intern - First time @ Microsoft - Redmond
    - $7300/mo
