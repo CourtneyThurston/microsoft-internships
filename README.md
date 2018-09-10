@@ -1,5 +1,7 @@
 # microsoft-internships
-This is unofficial, largely anecdote-based advice on getting hired for Explorer or Software Engineering Intern roles at Microsoft (with a lil sprinkle of PM advice). I was an explorer intern in the summer of 2016, a SWE intern in the summer of 2017, I'll be back next summer (2018) for my final SWE internship (all internships were at MS headquarters in Redmond).
+This is unofficial, largely anecdote-based advice on getting hired for Explore/Software Engineering/PM roles at Microsoft. 
+
+I was an explorer intern in the summer of 2016, a SWE intern in the summers of 2017 and 2018, and will be starting full-time as a software engineer sometime in the fall of 2019.
 
 ## Disclaimer
 Again: I'm not a Microsoft recruiter, I can't get you hired here, and none of this advice is official. These are my own reflections based on personal experience. I'm putting this right at the top and reiterating it so I don't have to say "my personal opinion is..." in every sentence.
