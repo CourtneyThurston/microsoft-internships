@@ -1,4 +1,7 @@
 # microsoft-internships
+
+Note: Mei'lani Eyre also wrote a helpful commentary with advice on interviewing, which can be found here: https://github.com/MeyAyre/tech-through-student-eyes/blob/master/Internships/preparing-for-microsoft-internship-interviews.md
+
 This is unofficial, largely anecdote-based advice on getting hired for Explore/Software Engineering/PM roles at Microsoft. This doc mostly covers internship information, but some content (contacting recruiters, interview questions, timeline) may also apply to new grads looking to go FTE.
 
 I was an explorer intern in the summer of 2016, a SWE intern in the summers of 2017 and 2018, and will be starting full-time as a software engineer sometime in the fall of 2019.
