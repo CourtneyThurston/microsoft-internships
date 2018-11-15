@@ -85,7 +85,7 @@ When you list team preferences, you should list realistic choices for your best 
 ## Compensation
 You can find all of this on Glassdoor, but for the sake of shoving all relevant information into one page -- current going offers for summer 2019 are:
 1. Explorer Intern - Redmond
-   - $31/hr (was accurate as of summer 2018)
+   - $32/hr (for summer 2019)
    - 40 hrs/week
 2. Software Engineering Intern - First time @ Microsoft - Redmond
    - $7300/mo
