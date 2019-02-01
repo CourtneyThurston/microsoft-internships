@@ -110,3 +110,6 @@ Are you gonna travel to music festivals or go hiking every weekend? If so, you s
 The sig event is a festival of activities and a concert every year held at a landmark venue in the Seattle metro area, and also the night the "intern gift" is given; it's a major distinguishing factor between competitors' internships and Microsoft internships. 
 
 Some examples; in 2016, the sig event was Ellie Goulding at Seattle Center (Space Needle and the Chihuly Museum were shut down for us) and the gift was a maxxed out Surface Book (retail ~$1900/person). In 2017, it was Daya and The Chainsmokers at the Boeing Factory/Museum/Runway in Mukilteo (the concert was on an active runway) and the gift was an Xbox (retail $250/person).
+
+# Was this helpful?
+[![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/B0B7PO98)
