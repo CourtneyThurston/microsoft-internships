@@ -92,7 +92,7 @@ You can find all of this on Glassdoor, but for the sake of shoving all relevant 
 3. Software Engineering Intern - Explore to SWE Intern conversion - Redmond
    - $7300/mo
    - $5000 gross starting bonus
-4. Software Engineering Intern - Returning Microsoft SWE Intern (SWE Intern <--> SWE Intern) - Redmond
+4. Software Engineering Intern - Returning Microsoft SWE/PM Intern (SWE/PM Intern <--> SWE/PM Intern) - Redmond
    - $7700/mo
    - $5000 gross starting bonus
    
