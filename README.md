@@ -101,18 +101,18 @@ Additionally, all Redmond interns receive free corporate housing OR a $7000 net 
 After accounting for California taxes and cost of living differences, my personal opinions is that for **internships**, Microsoft HQ offers are marginally more competitive than Google HQ offers and on par with Facebook HQ offers.
 
 ## Housing
-You could end up in a Hilton with breakfast every morning, or you could end up in an Issaquah (read: far af) motel with 1.5 stars on Yelp. These things have both happened to lots of people who took corporate housing. Are you cool making this gamble? If so, cool, take corporate housing. If not, the housing stipend is 200% the way to go; the stipend amount went up to $7,000 as of 12/1/2017, which is enough to pocket money regardless of where you choose to live as long as you don't choose a ridiculous Airbnb/sublet/etc. 
+You could end up in a Hilton with breakfast every morning, or you could end up in an Issaquah (read: far af) motel with 1.5 stars on Yelp. These things have both happened to lots of people who took corporate housing. Are you cool making this gamble? If so, cool, take corporate housing. If not, the housing stipend is 200% the way to go; the stipend amount went up to $7,000 as of 12/1/2017, which is enough to pocket money regardless of where you choose to live as long as you don't choose a ridiculous Airbnb/sublet/etc (advice: find other interns to live with and pool your collective stipend power. Trying to find a solo Airbnb might actually be challenging just for logistics reasons alone.)
 
 ## Car Rentals
-Are you gonna travel to music festivals or go hiking every weekend? If so, you should take the car option. If not, Puget Sound public transit + the Connector is more than enough.
+Are you gonna travel to music festivals or go hiking every weekend? If so, you should take the car option. If not, most interns find that Puget Sound public transit + the Connector system is more than enough. If you choose to forgo a car, you receive a Orca Card (the Puget Sound bus pass) that is topped up with unlimited rides, as well as a $1200 transportation stipend (meant to cover things like ocassional Ubers/Lyfts, etc.)
 
 ## Intern Day
-Intern Day was new in the summer of 2019, replacing the Signature Event. It was an all-day event with a few speakers in the morning, including the CEO Satya Nadella, followed by food trucks, lawn games, a beer garden, indoor activities, and a concert.
+Intern Day was introduced in the Summer of 2019 to replace the Signature Event. It was an all-day event with a few speakers in the morning, including the CEO Satya Nadella; this was followed by food trucks, lawn games, a beer garden, indoor activities, and a concert. This change was somewhat controversial, as the Signature Event was a major distinguishing factor between Microsoft and other companies. Some interns report enjoying the Intern Day more; other interns report really missing the Signature Event.
 
 ### Signature Event (replaced by Intern Day)
-The sig event is a festival of activities and a concert every year held at a landmark venue in the Seattle metro area, and also the night the "intern gift" is given; it's a major distinguishing factor between competitors' internships and Microsoft internships. 
+The sig event was a festival of activities and a concert held at a landmark venue in the Seattle metro area every year. This event was also the night the "intern gift" was given; it was a major distinguishing factor between competitors' internships and Microsoft internships, so the change from Signature Event to Intern Day remains somewhat controversial.
 
-Some examples; in 2016, the sig event was Ellie Goulding at Seattle Center (Space Needle and the Chihuly Museum were shut down for us) and the gift was a maxxed out Surface Book (retail ~$1900/person). In 2017, it was Daya and The Chainsmokers at the Boeing Factory/Museum/Runway in Mukilteo (the concert was on an active runway) and the gift was an Xbox (retail $250/person).
+Some examples; in 2016, the sig event was Ellie Goulding at Seattle Center (Space Needle and the Chihuly Museum were shut down for Interns) and the gift was a maxxed out Surface Book (retail ~$1900/person.) In 2017, it was Daya and The Chainsmokers at the Boeing Factory/Museum/Runway in Mukilteo (the concert was on an active runway) and the gift was an Xbox One S (retail $250/person.) In 2018, it was Julia Michaels and Pitbull at Gasworks Park in Seattle, and the gift was again an Xbox One S (retail $250/person.)
 
 # Was this helpful?
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/B0B7PO98)
