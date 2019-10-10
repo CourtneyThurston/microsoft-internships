@@ -1,8 +1,9 @@
 # microsoft-internships
 
 Note: 
-(1) Mei'lani Eyre also wrote a helpful commentary with advice on interviewing, which can be found here: https://github.com/MeyAyre/tech-through-student-eyes/blob/master/Internships/preparing-for-microsoft-internship-interviews.md
-(2) and Charlotte McGinn wrote a helpful Medium article on interiewing specifically for the Explore role: https://medium.com/@charlottemcginn/everything-you-need-to-know-about-interviewing-for-microsoft-explorer-3bf9ff6dc2e?fbclid=IwAR3ruKrC2F0igYAdTtNBv6vRyocW0HaiERHSo2YRH-Ig2uSqF_OCaytbigM
+* (1) **Mei'lani Eyre** wrote a helpful commentary with advice on interviewing for the SWE Internship, which can be found here: https://github.com/MeyAyre/tech-through-student-eyes/blob/master/Internships/preparing-for-microsoft-internship-interviews.md
+* (2) **Charlotte McGinn** wrote a helpful Medium article on interiewing specifically for the Explore role: https://medium.com/@charlottemcginn/everything-you-need-to-know-about-interviewing-for-microsoft-explorer-3bf9ff6dc2e?fbclid=IwAR3ruKrC2F0igYAdTtNBv6vRyocW0HaiERHSo2YRH-Ig2uSqF_OCaytbigM
+* (3) **Cassidy Williams-Song** provides some very comprehensive technical interviewing pointers (applies to any tech company), which you can find here: https://github.com/cassidoo/getting-a-gig#your-skills
 
 This is unofficial, largely anecdote-based advice on getting hired for Explore/Software Engineering/PM roles at Microsoft. This doc mostly covers internship information, but some content (contacting recruiters, interview questions, timeline) may also apply to new grads looking to go FTE.
 
