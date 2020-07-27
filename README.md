@@ -110,7 +110,7 @@ Are you gonna travel to music festivals or go hiking every weekend? If so, you s
 Intern Day was introduced in the Summer of 2019 to replace the Signature Event. It was an all-day event with a few speakers in the morning, including the CEO Satya Nadella; this was followed by food trucks, lawn games, a beer garden, indoor activities, and a concert. This change was somewhat controversial, as the Signature Event was a major distinguishing factor between Microsoft and other companies. Some interns report enjoying the Intern Day more; other interns report really missing the Signature Event.
 
 ## Covid-19 Changes
-For 2020 summer internships, which were conducted entirely remotely, the housing stipend was reducted to $3500. Microsoft shipped a computer (often, a Surface Pro) and an extra monitor to interns for the duration of the internship.
+For 2020 summer internships, which were conducted entirely remotely, the housing stipend was reduced to $3500. Microsoft shipped a computer (often a Surface Pro) and an extra monitor, keyboard, and mouse to interns for the duration of the internship.
 
 Intern Day was also continued remotely, with Trevor Noah hosting an online, three-hour event that featured a mini-concert from Chance the Rapper and Gryffin and talks from Malala, Luvvie Ajayi Jones, and Melinda Gates. 
 
