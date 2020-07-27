@@ -85,7 +85,7 @@ When you list team preferences, you should list realistic choices for your best 
 ## Compensation
 You can find all of this on Glassdoor, but for the sake of shoving all relevant information into one page -- current going offers for summer 2019 are:
 1. Explorer Intern - Redmond
-   - $32/hr (for summer 2019)
+   - $33/hr (for summer 2020)
    - 40 hrs/week
 2. Software Engineering Intern - First time @ Microsoft - Redmond
    - $7350/mo
@@ -108,6 +108,11 @@ Are you gonna travel to music festivals or go hiking every weekend? If so, you s
 
 ## Intern Day
 Intern Day was introduced in the Summer of 2019 to replace the Signature Event. It was an all-day event with a few speakers in the morning, including the CEO Satya Nadella; this was followed by food trucks, lawn games, a beer garden, indoor activities, and a concert. This change was somewhat controversial, as the Signature Event was a major distinguishing factor between Microsoft and other companies. Some interns report enjoying the Intern Day more; other interns report really missing the Signature Event.
+
+## Covid-19 Changes
+For 2020 summer internships, which were conducted entirely remotely, the housing stipend was reduced to $3500. Microsoft shipped a computer (often a Surface Pro) and an extra monitor, keyboard, and mouse to interns for the duration of the internship.
+
+Intern Day was also continued remotely, with Trevor Noah hosting an online, three-hour event that featured a mini-concert from Chance the Rapper and Gryffin and talks from Malala, Luvvie Ajayi Jones, and Melinda Gates. 
 
 ### Signature Event (replaced by Intern Day)
 The sig event was a festival of activities and a concert held at a landmark venue in the Seattle metro area every year. This event was also the night the "intern gift" was given; it was a major distinguishing factor between competitors' internships and Microsoft internships, so the change from Signature Event to Intern Day remains somewhat controversial.
