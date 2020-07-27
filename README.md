@@ -88,9 +88,9 @@ You can find all of this on Glassdoor, but for the sake of shoving all relevant 
    - $32/hr (for summer 2019)
    - 40 hrs/week
 2. Software Engineering Intern - First time @ Microsoft - Redmond
-   - $7300/mo
+   - $7350/mo
 3. Software Engineering Intern - Explore to SWE Intern conversion - Redmond
-   - $7300/mo
+   - $7350/mo
    - $5000 gross starting bonus
 4. Software Engineering Intern - Returning Microsoft SWE/PM Intern (SWE/PM Intern <--> SWE/PM Intern) - Redmond
    - $7850/mo
