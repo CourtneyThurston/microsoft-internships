@@ -114,10 +114,5 @@ For 2020 summer internships, which were conducted entirely remotely, the housing
 
 Intern Day was also continued remotely, with Trevor Noah hosting an online, three-hour event that featured a mini-concert from Chance the Rapper and Gryffin and talks from Malala, Luvvie Ajayi Jones, and Melinda Gates. 
 
-### Signature Event (replaced by Intern Day)
-The sig event was a festival of activities and a concert held at a landmark venue in the Seattle metro area every year. This event was also the night the "intern gift" was given; it was a major distinguishing factor between competitors' internships and Microsoft internships, so the change from Signature Event to Intern Day remains somewhat controversial.
-
-Some examples; in 2016, the sig event was Ellie Goulding at Seattle Center (Space Needle and the Chihuly Museum were shut down for Interns) and the gift was a maxxed out Surface Book (retail ~$1900/person.) In 2017, it was Daya and The Chainsmokers at the Boeing Factory/Museum/Runway in Mukilteo (the concert was on an active runway) and the gift was an Xbox One S (retail $250/person.) In 2018, it was Julia Michaels and Pitbull at Gasworks Park in Seattle, and the gift was again an Xbox One S (retail $250/person.)
-
 # Was this helpful?
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/B0B7PO98)
