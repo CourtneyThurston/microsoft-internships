@@ -14,7 +14,7 @@ Again: I'm not a Microsoft recruiter, I can't get you hired here, and none of th
 
 ## Getting Noticed/Contact Information
 * Ping someone at Microsoft to find your dedicated school recruiter, if you have one. Recruiting has recently moved their Find Your Recruiter tool from public-facing to internal-only, probably because the intern program is only getting bigger, more competitive, and harder to coordinate. For this reason, recruiters would really prefer you not email them unless you have super pressing concerns (i.e. exploding offers from direct competititors, etc.)
-* If you have a Microsoft-employee-friend willing to give you a referral, have them send your resume, your top accomplishments, and desired role(s) at Microsoft to collref@microsoft.com (only for college internships, or new grads within 12 months after graduation.)
+* If you have a Microsoft-employee-friend willing to give you a referral, have them send your resume, your top accomplishments, and desired role(s) at Microsoft to the recruiter that aligns best to you (they can find out who that is by going to //msw and looking for "Find Your Recruiter" -- only for college internships, or new grads within 12 months after graduation.)
 
 If you were referred, **make sure you apply online also**. The application is basically only a resume upload: it takes literally about 5-10 minutes. There's no reason not to fill it out when it could massively expedite your interview and hiring process (potentially gets you noticed faster.)
 
