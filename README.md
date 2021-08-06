@@ -7,11 +7,6 @@ I was an explorer intern in the summer of 2016, a SWE intern in the summers of 2
 ## Disclaimer
 Again: I'm not a Microsoft recruiter, I can't get you hired here, and none of this advice is official. These are my own reflections based on personal experience. I'm putting this right at the top and reiterating it so I don't have to say "my personal opinion is..." in every sentence.
 
-## Other helpful resources
-* (1) **Mei'lani Eyre** wrote a helpful commentary with advice on interviewing for the SWE Internship, which can be found here: https://github.com/MeyAyre/tech-through-student-eyes/blob/master/Internships/preparing-for-microsoft-internship-interviews.md
-* (2) **Charlotte McGinn** wrote a helpful Medium article on interiewing specifically for the Explore role: https://medium.com/@charlottemcginn/everything-you-need-to-know-about-interviewing-for-microsoft-explorer-3bf9ff6dc2e?fbclid=IwAR3ruKrC2F0igYAdTtNBv6vRyocW0HaiERHSo2YRH-Ig2uSqF_OCaytbigM
-* (3) **Cassidy Williams-Song** provides some very comprehensive technical interviewing pointers (applies to any tech company), which you can find here: https://github.com/cassidoo/getting-a-gig#your-skills
-
 ## Getting Noticed/Contact Information
 * Ping someone at Microsoft to find your dedicated school recruiter, if you have one. Recruiting has recently moved their Find Your Recruiter tool from public-facing to internal-only, probably because the intern program is only getting bigger, more competitive, and harder to coordinate. For this reason, recruiters would really prefer you not email them unless you have super pressing concerns (i.e. exploding offers from direct competititors, etc.)
 * If you have a Microsoft-employee-friend willing to give you a referral, have them send your resume, your top accomplishments, and desired role(s) at Microsoft to the recruiter that aligns best to you (they can find out who that is by going to //msw and looking for "Find Your Recruiter" -- only for college internships, or new grads within 12 months after graduation.)
@@ -113,6 +108,14 @@ Intern Day was introduced in the Summer of 2019 to replace the Signature Event. 
 For 2020 summer internships, which were conducted entirely remotely, the housing stipend was reduced to $3500. Microsoft shipped a computer (often a Surface Pro) and an extra monitor, keyboard, and mouse to interns for the duration of the internship.
 
 Intern Day was also continued remotely, with Trevor Noah hosting an online, three-hour event that featured a mini-concert from Chance the Rapper and Gryffin and talks from Malala, Luvvie Ajayi Jones, and Melinda Gates. 
+
+# See Also
+* [Negotiating major SWE offers by Courtney Thurston](https://github.com/CourtneyThurston/negotiating-major-swe-offers)
+* [Personal finances for technical people by Courtney Thurston](https://github.com/CourtneyThurston/personal-finance-memes-for-tech-teens)
+* [Getting a gig by Cassidy Williams-Song](https://github.com/cassidoo/getting-a-gig#your-skills)
+* [Everything you need to know about interviewing for Microsoft Explore by Charlotte McGinn](https://medium.com/@charlottemcginn/everything-you-need-to-know-about-interviewing-for-microsoft-explorer-3bf9ff6dc2e?fbclid=IwAR3ruKrC2F0igYAdTtNBv6vRyocW0HaiERHSo2YRH-Ig2uSqF_OCaytbigM)
+* [Preparing for the Microsoft SWE interview by Mei'lani Eyre](https://github.com/MeyAyre/tech-through-student-eyes/blob/master/Internships/preparing-for-microsoft-internship-interviews.md)
+* [Ten rules for negotiating a job offer by Haseeb Qureshi](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/)
 
 # Was this helpful?
 [![ko-fi](https://www.ko-fi.com/img/donate_sm.png)](https://ko-fi.com/B0B7PO98)
